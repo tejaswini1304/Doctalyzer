@@ -21,10 +21,3 @@ Doctalyzer is an **AI-powered healthcare application** that leverages **Google G
 - **PyPDF2 & PIL** – Report text and image extraction  
 
 ---
-
-## 📥 Installation  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/doctalyzer.git
-   cd doctalyzer
